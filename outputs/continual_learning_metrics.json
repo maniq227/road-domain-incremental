@@ -1,0 +1,11 @@
+{
+  "backward_transfer": 0.0,
+  "forward_transfer": 0.0,
+  "average_accuracy": 0.011999999999999999,
+  "domain_scores": {
+    "sunny": 0.013499999999999998,
+    "overcast": 0.013499999999999998,
+    "snowy": 0.0075,
+    "night": 0.013499999999999998
+  }
+}

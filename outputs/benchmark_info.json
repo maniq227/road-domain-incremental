@@ -1,0 +1,35 @@
+{
+  "n_experiences": 4,
+  "domains": [
+    "sunny",
+    "overcast",
+    "snowy",
+    "night"
+  ],
+  "classes": [
+    "Car",
+    "Bus",
+    "Truck",
+    "Motorcycle",
+    "Bicycle",
+    "Pedestrian",
+    "Van",
+    "Trailer",
+    "Emergency_vehicle",
+    "Other_vehicle",
+    "Other_agent"
+  ],
+  "class_mapping": {
+    "Car": 0,
+    "Bus": 1,
+    "Truck": 2,
+    "Motorcycle": 3,
+    "Bicycle": 4,
+    "Pedestrian": 5,
+    "Van": 6,
+    "Trailer": 7,
+    "Emergency_vehicle": 8,
+    "Other_vehicle": 9,
+    "Other_agent": 10
+  }
+}

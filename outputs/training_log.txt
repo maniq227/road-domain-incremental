@@ -1,0 +1,36 @@
+-- >> Start of training phase << --
+-- Starting training on experience 0 from train_datasets stream --
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 15.1744
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0002
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0001
+-- >> End of training phase << --
+-- >> Start of training phase << --
+-- Starting training on experience 1 from train_datasets stream --
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0000
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0000
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0000
+-- >> End of training phase << --
+-- >> Start of training phase << --
+-- Starting training on experience 2 from train_datasets stream --
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0000
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0000
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0000
+-- >> End of training phase << --
+-- >> Start of training phase << --
+-- Starting training on experience 3 from train_datasets stream --
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0000
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0000
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_datasets_stream = 0.0000
+-- >> End of training phase << --
